@@ -1,16 +1,28 @@
-# About
+# Hi, I'm Shepherd Griffin 👋
+### Senior Technical Marketing Engineer | Solutions Architect | Systems Optimizer
 
-Hi, I'm Shepherd Griffin 👋
+I’m a **Technical Translator** who thrives in the "gray space" between hardware-level performance and enterprise-scale operations. I specialize in taking complex engineering hurdles and turning them into scalable **Solution Blueprints** and high-fidelity technical content.
 
-Technical Marketing Engineer | Systems Architect | TPM
+---
 
-I specialize in bridging the gap between complex hardware architectures and operational excellence.
+## 🛠 What I’m Building
+* **Demo Engineering:** Architecting high-concurrency production environments optimized for **NVIDIA NVENC** hardware acceleration.
+* **Process Architecture:** Standardizing the **ABH (Always Be Hustling)** Framework—a logic-driven triage system for enterprise-scale reliability.
+* **Observability:** Leveraging **Splunk (SPL)** and telemetry to maintain an 80% success rate in definitive root-cause identification.
 
-🛠️ Technical Focus
-Hardware Mastery: Optimizing live-production environments using NVIDIA NVENC and multi-camera arrays.
+## 🚀 The TME Mindset
+I believe that the best technical products deserve the best technical stories. Whether I'm deep-diving into kernel-level security or documenting a hybrid-cloud reference architecture, my goal is to drive adoption through **clarity, care, and hands-on validation.**
 
-Process Mastery: Architecting scalable internal workflows and escalation frameworks (Visily).
+## 📊 Quick Stats
+* **Philosophy:** Always Be Hustling (ABH).
+* **Track Record:** 94.3% CSAT in enterprise-level technical lead roles.
+* **Certifications:** UW Project Management (GPA 4.97), Salesforce/Tableau Server Qualified.
 
-AI-Augmented Engineering: Implementing Agentic AI (Agentforce) to streamline enterprise support.
+---
 
-Resume: https://linkedin.com/in/shepeherdg
+## 📫 Connect with me:
+* **LinkedIn:** [linkedin.com/in/shepherdg](https://linkedin.com/in/shepherdg)
+* **Demos:** [Twitch.tv/Greilark](https://Twitch.tv/Greilark)
+* **Email:** shepherd@greimedia.com
+
+*"Turning tribal knowledge into global standards."*
